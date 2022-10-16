@@ -27,4 +27,3 @@ fwrite($fp, $browser);
 
 
 fclose($fp);
-
